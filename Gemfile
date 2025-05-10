@@ -53,7 +53,7 @@ group :development, :test do
   gem "reek"
   gem "fasterer"
 
-  gem "rspec-rails", "~> 7.0.0"
+  gem "rspec-rails", "~> 8.0.0"
   gem "rspec-snapshot"
   gem "factory_bot_rails", "~> 6.0"
   gem "rswag-specs"
